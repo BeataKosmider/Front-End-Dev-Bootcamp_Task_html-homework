@@ -1,4 +1,4 @@
-Tasks realized during Front-End Developer Bootcamp
+Task performed during Front-End Developer Bootcamp
 
 1. Stwórz poprawną, bazową strukturę pliku HTML. Uwzględnij niezbędne tagi omówione na lekcji (język ustaw na “PL”) oraz pamiętaj o poprawnym formatowaniu (wcięciach).
 2. Stwórz sekcję, w której znajdą się dwa nagłówki - pierwszego oraz drugiego stopnia, a zaraz pod nimi paragraf. Do H1 wstaw “Tytuł”, do H2 “Podtytuł”, a do paragrafu “Przykładowy tekst”.
